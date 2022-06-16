@@ -2,6 +2,8 @@
   {
     "line": 2,
     "column": 3,
+    "endLine": 2,
+    "endColumn": 35,
     "rule": "property-no-vendor-prefix",
     "severity": "error",
     "text": "Unexpected vendor-prefix \"-webkit-border-radius\" (property-no-vendor-prefix)"
@@ -9,6 +11,8 @@
   {
     "line": 3,
     "column": 3,
+    "endLine": 3,
+    "endColumn": 32,
     "rule": "property-no-vendor-prefix",
     "severity": "error",
     "text": "Unexpected vendor-prefix \"-moz-border-radius\" (property-no-vendor-prefix)"
@@ -16,6 +20,8 @@
   {
     "line": 7,
     "column": 4,
+    "endLine": 7,
+    "endColumn": 43,
     "rule": "indentation",
     "severity": "error",
     "text": "Expected indentation of 2 spaces (indentation)"

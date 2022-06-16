@@ -2,6 +2,8 @@
   {
     "line": 5,
     "column": 18,
+    "endLine": 5,
+    "endColumn": 23,
     "rule": "font-family-no-missing-generic-family-keyword",
     "severity": "error",
     "text": "Unexpected missing generic font family (font-family-no-missing-generic-family-keyword)"
@@ -9,6 +11,8 @@
   {
     "line": 1,
     "column": 9,
+    "endLine": 1,
+    "endColumn": 10,
     "rule": "value-keyword-case",
     "severity": "error",
     "text": "Expected \"Helvetica\" to be \"helvetica\" (value-keyword-case)"
@@ -16,6 +20,8 @@
   {
     "line": 1,
     "column": 20,
+    "endLine": 1,
+    "endColumn": 21,
     "rule": "value-keyword-case",
     "severity": "error",
     "text": "Expected \"Arial\" to be \"arial\" (value-keyword-case)"

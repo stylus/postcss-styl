@@ -37,7 +37,7 @@ baseConfig.overrides = [
 const tests = listupFixtures(path.join(__dirname, "fixtures"))
 
 describe("stylelint", () => {
-    if (!semver.gte(process.version, "12.0.0")) {
+    if (!semver.gte(process.version, "14.0.0")) {
         return
     }
 
@@ -59,6 +59,8 @@ describe("stylelint", () => {
                     {
                         column: 10,
                         line: 3,
+                        endColumn: 18,
+                        endLine: 3,
                         rule: "color-no-invalid-hex",
                         severity: "error",
                         text: 'Unexpected invalid hex color "#fffffff" (color-no-invalid-hex)',
@@ -66,6 +68,8 @@ describe("stylelint", () => {
                     {
                         column: 1,
                         line: 1,
+                        endColumn: 2,
+                        endLine: 1,
                         rule: "no-empty-first-line",
                         severity: "error",
                         text: "Unexpected empty line (no-empty-first-line)",
