@@ -2,6 +2,8 @@
   {
     "line": 3,
     "column": 12,
+    "endLine": 3,
+    "endColumn": 25,
     "rule": "at-rule-empty-line-before",
     "severity": "error",
     "text": "Expected empty line before at-rule (at-rule-empty-line-before)"
@@ -9,6 +11,8 @@
   {
     "line": 2,
     "column": 11,
+    "endLine": 2,
+    "endColumn": 12,
     "rule": "declaration-block-semicolon-newline-after",
     "severity": "error",
     "text": "Expected newline after \";\" in a multi-line declaration block (declaration-block-semicolon-newline-after)"
@@ -16,6 +20,8 @@
   {
     "line": 2,
     "column": 7,
+    "endLine": 2,
+    "endColumn": 8,
     "rule": "declaration-colon-space-before",
     "severity": "error",
     "text": "Unexpected whitespace before \":\" (declaration-colon-space-before)"
@@ -23,6 +29,8 @@
   {
     "line": 3,
     "column": 3,
+    "endLine": 3,
+    "endColumn": 11,
     "rule": "indentation",
     "severity": "error",
     "text": "Expected indentation of 4 spaces (indentation)"

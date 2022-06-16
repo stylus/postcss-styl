@@ -2,6 +2,8 @@
   {
     "line": 3,
     "column": 24,
+    "endLine": 3,
+    "endColumn": 25,
     "rule": "function-calc-no-unspaced-operator",
     "severity": "error",
     "text": "Expected an operator before sign \"-\" (function-calc-no-unspaced-operator)"
@@ -9,6 +11,8 @@
   {
     "line": 1,
     "column": 1,
+    "endLine": 1,
+    "endColumn": 2,
     "rule": "no-empty-first-line",
     "severity": "error",
     "text": "Unexpected empty line (no-empty-first-line)"
@@ -16,6 +20,8 @@
   {
     "line": 3,
     "column": 18,
+    "endLine": 3,
+    "endColumn": 19,
     "rule": "unit-case",
     "severity": "error",
     "text": "Expected \"VH\" to be \"vh\" (unit-case)"
@@ -23,6 +29,8 @@
   {
     "line": 3,
     "column": 5,
+    "endLine": 3,
+    "endColumn": 29,
     "rule": "indentation",
     "severity": "error",
     "text": "Expected indentation of 2 spaces (indentation)"
