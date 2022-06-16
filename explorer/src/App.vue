@@ -2,7 +2,7 @@
     <header class="header">
         <label class="title">postcss-styl</label>
         <SnsBar />
-        <a href="https://github.com/ota-meshi/postcss-styl" class="github-link"
+        <a href="https://github.com/stylus/postcss-styl" class="github-link"
             >View on GitHub</a
         >
     </header>

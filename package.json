@@ -16,7 +16,7 @@
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ota-meshi/postcss-styl.git"
+        "url": "git+https://github.com/stylus/postcss-styl.git"
     },
     "keywords": [
         "postcss",
@@ -31,9 +31,9 @@
     "funding": "https://github.com/sponsors/ota-meshi",
     "license": "MIT",
     "bugs": {
-        "url": "https://github.com/ota-meshi/postcss-styl/issues"
+        "url": "https://github.com/stylus/postcss-styl/issues"
     },
-    "homepage": "https://github.com/ota-meshi/postcss-styl#readme",
+    "homepage": "https://github.com/stylus/postcss-styl#readme",
     "engines": {
         "node": "^8.10.0 || ^10.13.0 || ^11.10.1 || >=12.13.0"
     },

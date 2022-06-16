@@ -3,9 +3,8 @@
 [![NPM license]](https://www.npmjs.com/package/postcss-styl)
 [![NPM version]](https://www.npmjs.com/package/postcss-styl)
 [![NPM downloads]](https://www.npmjs.com/package/postcss-styl)
-[![Build Status]](https://github.com/ota-meshi/postcss-styl/actions?query=workflow%3ACI)
-[![Greenkeeper badge](https://badges.greenkeeper.io/ota-meshi/postcss-styl.svg)](https://greenkeeper.io/)
-[![Coverage Status]](https://coveralls.io/github/ota-meshi/postcss-styl?branch=master)
+[![Build Status]](https://github.com/stylus/postcss-styl/actions?query=workflow%3ACI)
+[![Coverage Status]](https://coveralls.io/github/stylus/postcss-styl?branch=main)
 
 [PostCSS] parser plugin for converting [Stylus] syntax to [PostCSS] AST.
 
@@ -24,7 +23,7 @@ npm install -D postcss-styl
 ### Lint Stylus with [stylelint]
 
 You can use this [PostCSS] plugin to apply [Stylus] syntax to [stylelint].  
-**You can use it more easily by using it with [stylelint-plugin-stylus](https://github.com/ota-meshi/stylelint-plugin-stylus).**
+**You can use it more easily by using it with [stylelint-plugin-stylus](https://github.com/stylus/stylelint-stylus).**
 
 For example, this [PostCSS] plugin is used as follows:
 
@@ -107,7 +106,7 @@ Please use GitHub's Issues/PRs.
 ### AST
 
 You can check the AST online.  
-https://ota-meshi.github.io/postcss-styl/
+https://stylus.github.io/postcss-styl/
 
 ## License
 
@@ -123,5 +122,5 @@ See the [LICENSE] file for license rights and limitations (MIT).
 [npm license]: https://img.shields.io/npm/l/postcss-styl.svg
 [npm version]: https://img.shields.io/npm/v/postcss-styl.svg
 [npm downloads]: https://img.shields.io/npm/dw/postcss-styl.svg
-[Build Status]: https://github.com/ota-meshi/postcss-styl/workflows/CI/badge.svg?branch=master
-[Coverage Status]: https://coveralls.io/repos/github/ota-meshi/postcss-styl/badge.svg?branch=master
+[Build Status]: https://github.com/stylus/postcss-styl/workflows/CI/badge.svg?branch=main
+[Coverage Status]: https://coveralls.io/repos/github/stylus/postcss-styl/badge.svg?branch=main
