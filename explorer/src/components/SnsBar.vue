@@ -3,9 +3,9 @@
         <div class="sns">
             <a
                 class="github-button"
-                href="https://github.com/ota-meshi/postcss-styl"
+                href="https://github.com/stylus/postcss-styl"
                 data-show-count="true"
-                aria-label="Star ota-meshi/postcss-styl on GitHub"
+                aria-label="Star stylus/postcss-styl on GitHub"
                 >Star</a
             >
             <a href="https://www.npmjs.com/package/postcss-styl">
