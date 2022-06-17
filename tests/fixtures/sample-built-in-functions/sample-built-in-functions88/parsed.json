@@ -87,6 +87,31 @@
           },
           "prop": "background",
           "value": "embedurl('logo.svg', 'utf8')"
+        },
+        {
+          "raws": {
+            "before": "\n  ",
+            "left": " ",
+            "right": "",
+            "inline": true
+          },
+          "type": "comment",
+          "source": {
+            "start": {
+              "offset": 135,
+              "line": 7,
+              "column": 3
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 193,
+              "line": 7,
+              "column": 61
+            }
+          },
+          "text": "=> background: url(\"data:image/svg+xml;charset=utf-8,…\")"
         }
       ],
       "source": {
@@ -104,38 +129,13 @@
           "file": "input.styl"
         },
         "end": {
-          "offset": 131,
-          "line": 6,
-          "column": 42
-        }
-      },
-      "selector": "a",
-      "pythonic": true
-    },
-    {
-      "raws": {
-        "before": "\n  ",
-        "left": " ",
-        "right": "",
-        "inline": true
-      },
-      "type": "comment",
-      "source": {
-        "start": {
-          "offset": 135,
-          "line": 7,
-          "column": 3
-        },
-        "input": {
-          "file": "input.styl"
-        },
-        "end": {
           "offset": 193,
           "line": 7,
           "column": 61
         }
       },
-      "text": "=> background: url(\"data:image/svg+xml;charset=utf-8,…\")"
+      "selector": "a",
+      "pythonic": true
     }
   ],
   "source": {

@@ -2,5 +2,5 @@
  @unshift(nums, 3, 2, 1);
 
 a{
- padding: nums}
- /* => 1 2 3 4 5*/
+ padding: nums
+ /* => 1 2 3 4 5*/}

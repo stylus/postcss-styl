@@ -1,0 +1,15 @@
+.a{
+  /* comment-at-end*/}
+.b{
+  color: red
+  /* comment-at-end*/}
+.c{
+ /* comment-at-end*/}
+.d{
+  color: red}
+ /* comment-at-end*/
+.e
+/* comment-at-end*/
+,.f{
+  color: red}
+/* comment-at-end*/

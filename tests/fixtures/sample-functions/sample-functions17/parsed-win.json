@@ -31,9 +31,9 @@
           "file": "input.styl"
         },
         "end": {
-          "offset": 429,
-          "line": 22,
-          "column": 4
+          "offset": 450,
+          "line": 23,
+          "column": 19
         }
       },
       "params": "(list, fn = null)",
@@ -460,34 +460,34 @@
           },
           "params": "(5 3 6 1 2 4, @(a, b){\r\n    a < b\r\n  })",
           "call": true
+        },
+        {
+          "raws": {
+            "before": "\r\n  ",
+            "left": " ",
+            "right": "",
+            "inline": true
+          },
+          "type": "comment",
+          "source": {
+            "start": {
+              "offset": 434,
+              "line": 23,
+              "column": 3
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 450,
+              "line": 23,
+              "column": 19
+            }
+          },
+          "text": "=> 6 5 4 3 2 1"
         }
       ],
       "function": true
-    },
-    {
-      "raws": {
-        "before": "\r\n  ",
-        "left": " ",
-        "right": "",
-        "inline": true
-      },
-      "type": "comment",
-      "source": {
-        "start": {
-          "offset": 434,
-          "line": 23,
-          "column": 3
-        },
-        "input": {
-          "file": "input.styl"
-        },
-        "end": {
-          "offset": 450,
-          "line": 23,
-          "column": 19
-        }
-      },
-      "text": "=> 6 5 4 3 2 1"
     }
   ],
   "source": {
