@@ -89,6 +89,31 @@
           },
           "prop": "color",
           "value": "#ffcc00ee"
+        },
+        {
+          "raws": {
+            "before": "\r\n  ",
+            "left": " ",
+            "right": "",
+            "inline": true
+          },
+          "type": "comment",
+          "source": {
+            "start": {
+              "offset": 70,
+              "line": 6,
+              "column": 3
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 94,
+              "line": 6,
+              "column": 27
+            }
+          },
+          "text": "=> rgba(255,204,0,0.9)"
         }
       ],
       "source": {
@@ -106,38 +131,13 @@
           "file": "input.styl"
         },
         "end": {
-          "offset": 65,
-          "line": 5,
-          "column": 17
-        }
-      },
-      "selector": "a",
-      "pythonic": true
-    },
-    {
-      "raws": {
-        "before": "\r\n  ",
-        "left": " ",
-        "right": "",
-        "inline": true
-      },
-      "type": "comment",
-      "source": {
-        "start": {
-          "offset": 70,
-          "line": 6,
-          "column": 3
-        },
-        "input": {
-          "file": "input.styl"
-        },
-        "end": {
           "offset": 94,
           "line": 6,
           "column": 27
         }
       },
-      "text": "=> rgba(255,204,0,0.9)"
+      "selector": "a",
+      "pythonic": true
     }
   ],
   "source": {

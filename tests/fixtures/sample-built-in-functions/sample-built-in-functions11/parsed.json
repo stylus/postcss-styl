@@ -143,6 +143,31 @@
           },
           "prop": "padding",
           "value": "num"
+        },
+        {
+          "raws": {
+            "before": "\n ",
+            "left": " ",
+            "right": "",
+            "inline": true
+          },
+          "type": "comment",
+          "source": {
+            "start": {
+              "offset": 81,
+              "line": 8,
+              "column": 2
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 87,
+              "line": 8,
+              "column": 8
+            }
+          },
+          "text": "=> 1"
         }
       ],
       "source": {
@@ -160,38 +185,13 @@
           "file": "input.styl"
         },
         "end": {
-          "offset": 78,
-          "line": 7,
-          "column": 12
-        }
-      },
-      "selector": "a",
-      "pythonic": true
-    },
-    {
-      "raws": {
-        "before": "\n ",
-        "left": " ",
-        "right": "",
-        "inline": true
-      },
-      "type": "comment",
-      "source": {
-        "start": {
-          "offset": 81,
-          "line": 8,
-          "column": 2
-        },
-        "input": {
-          "file": "input.styl"
-        },
-        "end": {
           "offset": 87,
           "line": 8,
           "column": 8
         }
       },
-      "text": "=> 1"
+      "selector": "a",
+      "pythonic": true
     }
   ],
   "source": {

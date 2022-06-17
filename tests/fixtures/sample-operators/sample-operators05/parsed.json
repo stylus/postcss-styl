@@ -388,6 +388,31 @@
           },
           "prop": "padding",
           "value": "add(1,'5')[1]"
+        },
+        {
+          "raws": {
+            "before": "\n   ",
+            "left": " ",
+            "right": "",
+            "inline": true
+          },
+          "type": "comment",
+          "source": {
+            "start": {
+              "offset": 379,
+              "line": 20,
+              "column": 4
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 417,
+              "line": 20,
+              "column": 42
+            }
+          },
+          "text": "=> padding: \"a and b must be units\";"
         }
       ],
       "source": {
@@ -405,38 +430,13 @@
           "file": "input.styl"
         },
         "end": {
-          "offset": 374,
-          "line": 19,
-          "column": 24
-        }
-      },
-      "selector": "body",
-      "pythonic": true
-    },
-    {
-      "raws": {
-        "before": "\n   ",
-        "left": " ",
-        "right": "",
-        "inline": true
-      },
-      "type": "comment",
-      "source": {
-        "start": {
-          "offset": 379,
-          "line": 20,
-          "column": 4
-        },
-        "input": {
-          "file": "input.styl"
-        },
-        "end": {
           "offset": 417,
           "line": 20,
           "column": 42
         }
       },
-      "text": "=> padding: \"a and b must be units\";"
+      "selector": "body",
+      "pythonic": true
     }
   ],
   "source": {
