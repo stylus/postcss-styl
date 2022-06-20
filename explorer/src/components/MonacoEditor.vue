@@ -105,6 +105,7 @@ export default {
                     endLineNumber: loc.end.line,
                     endColumn: loc.end.column + endColumnOffset,
                 })
+                vm.editor.revealLineInCenter(loc.start.line)
             }
         },
     },
