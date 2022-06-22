@@ -28,7 +28,7 @@
         "css"
     ],
     "author": "Yosuke Ota",
-    "funding": "https://github.com/sponsors/ota-meshi",
+    "funding": "https://opencollective.com/stylus",
     "license": "MIT",
     "bugs": {
         "url": "https://github.com/stylus/postcss-styl/issues"
