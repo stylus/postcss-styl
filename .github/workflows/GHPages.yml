@@ -36,7 +36,7 @@ jobs:
     - name: Build docs
       run: |+
         cd explorer
-        npm run docs:build
+        npm run build
     - name: Setup Pages
       uses: actions/configure-pages@v1
     - name: Upload artifact
