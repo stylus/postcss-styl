@@ -3,7 +3,7 @@
     "line": 2,
     "column": 3,
     "endLine": 2,
-    "endColumn": 35,
+    "endColumn": 24,
     "rule": "property-no-vendor-prefix",
     "severity": "error",
     "text": "Unexpected vendor-prefix \"-webkit-border-radius\" (property-no-vendor-prefix)"
@@ -12,7 +12,7 @@
     "line": 3,
     "column": 3,
     "endLine": 3,
-    "endColumn": 32,
+    "endColumn": 21,
     "rule": "property-no-vendor-prefix",
     "severity": "error",
     "text": "Unexpected vendor-prefix \"-moz-border-radius\" (property-no-vendor-prefix)"

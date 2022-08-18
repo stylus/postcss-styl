@@ -19,9 +19,9 @@
   },
   {
     "line": 3,
-    "column": 18,
+    "column": 21,
     "endLine": 3,
-    "endColumn": 19,
+    "endColumn": 23,
     "rule": "unit-case",
     "severity": "error",
     "text": "Expected \"VH\" to be \"vh\" (unit-case)"
