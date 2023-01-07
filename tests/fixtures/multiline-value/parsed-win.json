@@ -1,0 +1,84 @@
+{
+  "raws": {
+    "semicolon": false,
+    "after": "\r\n"
+  },
+  "type": "root",
+  "nodes": [
+    {
+      "raws": {
+        "before": "",
+        "between": "",
+        "semicolon": false,
+        "after": ""
+      },
+      "type": "rule",
+      "nodes": [
+        {
+          "raws": {
+            "before": "\r\n  ",
+            "between": ": \r\n    ",
+            "value": {
+              "value": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black",
+              "raw": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n    1 0 0 black \\\r\n    0 0 1 black"
+            },
+            "stylusBetween": " \\\r\n    "
+          },
+          "type": "decl",
+          "source": {
+            "start": {
+              "offset": 7,
+              "line": 2,
+              "column": 3
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 73,
+              "line": 5,
+              "column": 15
+            }
+          },
+          "prop": "box-shadow",
+          "value": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black"
+        }
+      ],
+      "source": {
+        "start": {
+          "offset": 0,
+          "line": 1,
+          "column": 1
+        },
+        "startChildren": {
+          "offset": 3,
+          "line": 1,
+          "column": 4
+        },
+        "input": {
+          "file": "input.styl"
+        },
+        "end": {
+          "offset": 73,
+          "line": 5,
+          "column": 15
+        }
+      },
+      "selector": "div",
+      "pythonic": true
+    }
+  ],
+  "source": {
+    "input": {
+      "file": "input.styl"
+    },
+    "start": {
+      "offset": 0,
+      "line": 1,
+      "column": 1
+    },
+    "lang": "stylus",
+    "syntax": "ok"
+  }
+}
