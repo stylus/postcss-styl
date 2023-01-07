@@ -75,6 +75,7 @@ const utils = {
         })
 
         return fixtures
+        // .filter((f) => f.name === "test")
     },
     read(file) {
         return fs.readFileSync(file).toString()
