@@ -1,0 +1,121 @@
+{
+  "raws": {
+    "semicolon": false,
+    "after": "\r\n"
+  },
+  "type": "root",
+  "nodes": [
+    {
+      "raws": {
+        "before": "",
+        "between": " ",
+        "afterName": " ",
+        "semicolon": false,
+        "after": "\r\n"
+      },
+      "type": "atrule",
+      "name": "media",
+      "source": {
+        "start": {
+          "offset": 0,
+          "line": 1,
+          "column": 1
+        },
+        "startChildren": {
+          "offset": 14,
+          "line": 1,
+          "column": 15
+        },
+        "input": {
+          "file": "input.styl"
+        },
+        "end": {
+          "offset": 82,
+          "line": 6,
+          "column": 1
+        },
+        "endChildren": {
+          "offset": 81,
+          "line": 5,
+          "column": 5
+        }
+      },
+      "params": "print",
+      "nodes": [
+        {
+          "raws": {
+            "before": "\r\n  ",
+            "between": " ",
+            "semicolon": true,
+            "after": "\r\n  "
+          },
+          "type": "rule",
+          "nodes": [
+            {
+              "raws": {
+                "before": "\r\n    ",
+                "between": ": "
+              },
+              "type": "decl",
+              "source": {
+                "start": {
+                  "offset": 27,
+                  "line": 3,
+                  "column": 5
+                },
+                "input": {
+                  "file": "input.styl"
+                },
+                "end": {
+                  "offset": 74,
+                  "line": 4,
+                  "column": 16
+                }
+              },
+              "prop": "background-position",
+              "value": "top left,\r\n      top right"
+            }
+          ],
+          "source": {
+            "start": {
+              "offset": 18,
+              "line": 2,
+              "column": 3
+            },
+            "startChildren": {
+              "offset": 21,
+              "line": 2,
+              "column": 6
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 79,
+              "line": 5,
+              "column": 3
+            },
+            "endChildren": {
+              "offset": 78,
+              "line": 5,
+              "column": 2
+            }
+          },
+          "selector": "a"
+        }
+      ]
+    }
+  ],
+  "source": {
+    "input": {
+      "file": "input.styl"
+    },
+    "start": {
+      "offset": 0,
+      "line": 1,
+      "column": 1
+    },
+    "lang": "stylus",
+    "syntax": "ok"
+  }
+}
