@@ -1,7 +1,7 @@
 {
   "raws": {
     "semicolon": false,
-    "after": "\n"
+    "after": "\r\n"
   },
   "type": "root",
   "nodes": [
@@ -16,19 +16,19 @@
       "nodes": [
         {
           "raws": {
-            "before": "\n    ",
-            "between": ": \n        ",
+            "before": "\r\n    ",
+            "between": ": ",
             "value": {
-              "value": "0 0 0 black \n        1 0 0 black \n        0 0 1 black",
-              "raw": "0 0 0 black \n        1 0 0 black \n        0 0 1 black",
-              "stylus": "0 0 0 black \\\n        1 0 0 black \\\n        0 0 1 black"
+              "value": "0 0 0 black \r\n        1 0 0 black \r\n        0 0 1 black",
+              "raw": "0 0 0 black \r\n        1 0 0 black \r\n        0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n        1 0 0 black \\\r\n        0 0 1 black"
             },
-            "stylusBetween": " \\\n        "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
             "start": {
-              "offset": 8,
+              "offset": 9,
               "line": 2,
               "column": 5
             },
@@ -36,13 +36,13 @@
               "file": "input.styl"
             },
             "end": {
-              "offset": 83,
-              "line": 5,
+              "offset": 76,
+              "line": 4,
               "column": 19
             }
           },
           "prop": "box-shadow",
-          "value": "0 0 0 black \n        1 0 0 black \n        0 0 1 black"
+          "value": "0 0 0 black \r\n        1 0 0 black \r\n        0 0 1 black"
         }
       ],
       "source": {
@@ -60,8 +60,8 @@
           "file": "input.styl"
         },
         "end": {
-          "offset": 83,
-          "line": 5,
+          "offset": 76,
+          "line": 4,
           "column": 19
         }
       },
@@ -70,7 +70,7 @@
     },
     {
       "raws": {
-        "before": "\n\n",
+        "before": "\r\n\r\n",
         "between": "",
         "semicolon": false,
         "after": ""
@@ -79,52 +79,52 @@
       "nodes": [
         {
           "raws": {
-            "before": "\n    ",
-            "between": ": \n      ",
+            "before": "\r\n    ",
+            "between": ": ",
             "value": {
-              "value": "0 0 0 black \n      1 0 0 black \n      0 0 1 black",
-              "raw": "0 0 0 black \n      1 0 0 black \n      0 0 1 black",
-              "stylus": "0 0 0 black \\\n      1 0 0 black \\\n      0 0 1 black"
+              "value": "0 0 0 black \r\n      1 0 0 black \r\n      0 0 1 black",
+              "raw": "0 0 0 black \r\n      1 0 0 black \r\n      0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n      1 0 0 black \\\r\n      0 0 1 black"
             },
-            "stylusBetween": " \\\n      "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
             "start": {
-              "offset": 94,
-              "line": 8,
+              "offset": 90,
+              "line": 7,
               "column": 5
             },
             "input": {
               "file": "input.styl"
             },
             "end": {
-              "offset": 163,
-              "line": 11,
+              "offset": 153,
+              "line": 9,
               "column": 17
             }
           },
           "prop": "box-shadow",
-          "value": "0 0 0 black \n      1 0 0 black \n      0 0 1 black"
+          "value": "0 0 0 black \r\n      1 0 0 black \r\n      0 0 1 black"
         }
       ],
       "source": {
         "start": {
-          "offset": 86,
-          "line": 7,
+          "offset": 81,
+          "line": 6,
           "column": 1
         },
         "startChildren": {
-          "offset": 89,
-          "line": 7,
+          "offset": 84,
+          "line": 6,
           "column": 4
         },
         "input": {
           "file": "input.styl"
         },
         "end": {
-          "offset": 163,
-          "line": 11,
+          "offset": 153,
+          "line": 9,
           "column": 17
         }
       },
@@ -133,7 +133,7 @@
     },
     {
       "raws": {
-        "before": "\n\n",
+        "before": "\r\n\r\n",
         "between": "",
         "semicolon": false,
         "after": ""
@@ -142,52 +142,52 @@
       "nodes": [
         {
           "raws": {
-            "before": "\n    ",
-            "between": ": \n    ",
+            "before": "\r\n    ",
+            "between": ": ",
             "value": {
-              "value": "0 0 0 black \n    1 0 0 black \n    0 0 1 black",
-              "raw": "0 0 0 black \n    1 0 0 black \n    0 0 1 black",
-              "stylus": "0 0 0 black \\\n    1 0 0 black \\\n    0 0 1 black"
+              "value": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black",
+              "raw": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n    1 0 0 black \\\r\n    0 0 1 black"
             },
-            "stylusBetween": " \\\n    "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
             "start": {
-              "offset": 174,
-              "line": 14,
+              "offset": 167,
+              "line": 12,
               "column": 5
             },
             "input": {
               "file": "input.styl"
             },
             "end": {
-              "offset": 237,
-              "line": 17,
+              "offset": 226,
+              "line": 14,
               "column": 15
             }
           },
           "prop": "box-shadow",
-          "value": "0 0 0 black \n    1 0 0 black \n    0 0 1 black"
+          "value": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black"
         }
       ],
       "source": {
         "start": {
-          "offset": 166,
-          "line": 13,
+          "offset": 158,
+          "line": 11,
           "column": 1
         },
         "startChildren": {
-          "offset": 169,
-          "line": 13,
+          "offset": 161,
+          "line": 11,
           "column": 4
         },
         "input": {
           "file": "input.styl"
         },
         "end": {
-          "offset": 237,
-          "line": 17,
+          "offset": 226,
+          "line": 14,
           "column": 15
         }
       },
@@ -196,7 +196,7 @@
     },
     {
       "raws": {
-        "before": "\n\n",
+        "before": "\r\n\r\n",
         "between": "",
         "semicolon": false,
         "after": ""
@@ -205,52 +205,52 @@
       "nodes": [
         {
           "raws": {
-            "before": "\n  ",
-            "between": ": \n  ",
+            "before": "\r\n  ",
+            "between": ": ",
             "value": {
-              "value": "0 0 0 black \n  1 0 0 black \n  0 0 1 black",
-              "raw": "0 0 0 black \n  1 0 0 black \n  0 0 1 black",
-              "stylus": "0 0 0 black \\\n  1 0 0 black \\\n  0 0 1 black"
+              "value": "0 0 0 black \r\n  1 0 0 black \r\n  0 0 1 black",
+              "raw": "0 0 0 black \r\n  1 0 0 black \r\n  0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n  1 0 0 black \\\r\n  0 0 1 black"
             },
-            "stylusBetween": " \\\n  "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
             "start": {
-              "offset": 246,
-              "line": 20,
+              "offset": 238,
+              "line": 17,
               "column": 3
             },
             "input": {
               "file": "input.styl"
             },
             "end": {
-              "offset": 303,
-              "line": 23,
+              "offset": 293,
+              "line": 19,
               "column": 13
             }
           },
           "prop": "box-shadow",
-          "value": "0 0 0 black \n  1 0 0 black \n  0 0 1 black"
+          "value": "0 0 0 black \r\n  1 0 0 black \r\n  0 0 1 black"
         }
       ],
       "source": {
         "start": {
-          "offset": 240,
-          "line": 19,
+          "offset": 231,
+          "line": 16,
           "column": 1
         },
         "startChildren": {
-          "offset": 243,
-          "line": 19,
+          "offset": 234,
+          "line": 16,
           "column": 4
         },
         "input": {
           "file": "input.styl"
         },
         "end": {
-          "offset": 303,
-          "line": 23,
+          "offset": 293,
+          "line": 19,
           "column": 13
         }
       },
