@@ -297,7 +297,8 @@ function processValue(options, ctx, value) {
                 ? entries.filter(([key]) => key === "source")
                 : []
             entries = entries.filter(
-                ([key]) => key !== "source" && key !== "parent",
+                ([key]) =>
+                    key !== "source" && key !== "parent" && key !== "type",
             )
             if (typeEntry) entries.unshift(typeEntry)
             entries.push(...locEntries)
