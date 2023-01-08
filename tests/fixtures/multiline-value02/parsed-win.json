@@ -8,13 +8,43 @@
     {
       "raws": {
         "before": "",
-        "between": " ",
-        "afterName": " ",
+        "between": "",
         "semicolon": false,
-        "after": "\r\n"
+        "after": ""
       },
-      "type": "atrule",
-      "name": "media",
+      "type": "rule",
+      "nodes": [
+        {
+          "raws": {
+            "before": "\r\n    ",
+            "between": ": \r\n        ",
+            "value": {
+              "value": "0 0 0 black \r\n        1 0 0 black \r\n        0 0 1 black",
+              "raw": "0 0 0 black \r\n        1 0 0 black \r\n        0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n        1 0 0 black \\\r\n        0 0 1 black"
+            },
+            "stylusBetween": " \\\r\n        "
+          },
+          "type": "decl",
+          "source": {
+            "start": {
+              "offset": 9,
+              "line": 2,
+              "column": 5
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 87,
+              "line": 5,
+              "column": 19
+            }
+          },
+          "prop": "box-shadow",
+          "value": "0 0 0 black \r\n        1 0 0 black \r\n        0 0 1 black"
+        }
+      ],
       "source": {
         "start": {
           "offset": 0,
@@ -22,88 +52,210 @@
           "column": 1
         },
         "startChildren": {
-          "offset": 14,
+          "offset": 3,
           "line": 1,
-          "column": 15
+          "column": 4
         },
         "input": {
           "file": "input.styl"
         },
         "end": {
-          "offset": 82,
-          "line": 6,
-          "column": 1
-        },
-        "endChildren": {
-          "offset": 81,
+          "offset": 87,
           "line": 5,
-          "column": 5
+          "column": 19
         }
       },
-      "params": "print",
+      "selector": "div",
+      "pythonic": true
+    },
+    {
+      "raws": {
+        "before": "\r\n\r\n",
+        "between": "",
+        "semicolon": false,
+        "after": ""
+      },
+      "type": "rule",
       "nodes": [
         {
           "raws": {
-            "before": "\r\n  ",
-            "between": " ",
-            "semicolon": true,
-            "after": "\r\n  "
+            "before": "\r\n    ",
+            "between": ": \r\n      ",
+            "value": {
+              "value": "0 0 0 black \r\n      1 0 0 black \r\n      0 0 1 black",
+              "raw": "0 0 0 black \r\n      1 0 0 black \r\n      0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n      1 0 0 black \\\r\n      0 0 1 black"
+            },
+            "stylusBetween": " \\\r\n      "
           },
-          "type": "rule",
-          "nodes": [
-            {
-              "raws": {
-                "before": "\r\n    ",
-                "between": ": "
-              },
-              "type": "decl",
-              "source": {
-                "start": {
-                  "offset": 27,
-                  "line": 3,
-                  "column": 5
-                },
-                "input": {
-                  "file": "input.styl"
-                },
-                "end": {
-                  "offset": 74,
-                  "line": 4,
-                  "column": 16
-                }
-              },
-              "prop": "background-position",
-              "value": "top left,\r\n      top right"
-            }
-          ],
+          "type": "decl",
           "source": {
             "start": {
-              "offset": 18,
-              "line": 2,
-              "column": 3
-            },
-            "startChildren": {
-              "offset": 21,
-              "line": 2,
-              "column": 6
+              "offset": 101,
+              "line": 8,
+              "column": 5
             },
             "input": {
               "file": "input.styl"
             },
             "end": {
-              "offset": 79,
-              "line": 5,
-              "column": 3
-            },
-            "endChildren": {
-              "offset": 78,
-              "line": 5,
-              "column": 2
+              "offset": 173,
+              "line": 11,
+              "column": 17
             }
           },
-          "selector": "a"
+          "prop": "box-shadow",
+          "value": "0 0 0 black \r\n      1 0 0 black \r\n      0 0 1 black"
         }
-      ]
+      ],
+      "source": {
+        "start": {
+          "offset": 92,
+          "line": 7,
+          "column": 1
+        },
+        "startChildren": {
+          "offset": 95,
+          "line": 7,
+          "column": 4
+        },
+        "input": {
+          "file": "input.styl"
+        },
+        "end": {
+          "offset": 173,
+          "line": 11,
+          "column": 17
+        }
+      },
+      "selector": "div",
+      "pythonic": true
+    },
+    {
+      "raws": {
+        "before": "\r\n\r\n",
+        "between": "",
+        "semicolon": false,
+        "after": ""
+      },
+      "type": "rule",
+      "nodes": [
+        {
+          "raws": {
+            "before": "\r\n    ",
+            "between": ": \r\n    ",
+            "value": {
+              "value": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black",
+              "raw": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n    1 0 0 black \\\r\n    0 0 1 black"
+            },
+            "stylusBetween": " \\\r\n    "
+          },
+          "type": "decl",
+          "source": {
+            "start": {
+              "offset": 187,
+              "line": 14,
+              "column": 5
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 253,
+              "line": 17,
+              "column": 15
+            }
+          },
+          "prop": "box-shadow",
+          "value": "0 0 0 black \r\n    1 0 0 black \r\n    0 0 1 black"
+        }
+      ],
+      "source": {
+        "start": {
+          "offset": 178,
+          "line": 13,
+          "column": 1
+        },
+        "startChildren": {
+          "offset": 181,
+          "line": 13,
+          "column": 4
+        },
+        "input": {
+          "file": "input.styl"
+        },
+        "end": {
+          "offset": 253,
+          "line": 17,
+          "column": 15
+        }
+      },
+      "selector": "div",
+      "pythonic": true
+    },
+    {
+      "raws": {
+        "before": "\r\n\r\n",
+        "between": "",
+        "semicolon": false,
+        "after": ""
+      },
+      "type": "rule",
+      "nodes": [
+        {
+          "raws": {
+            "before": "\r\n  ",
+            "between": ": \r\n  ",
+            "value": {
+              "value": "0 0 0 black \r\n  1 0 0 black \r\n  0 0 1 black",
+              "raw": "0 0 0 black \r\n  1 0 0 black \r\n  0 0 1 black",
+              "stylus": "0 0 0 black \\\r\n  1 0 0 black \\\r\n  0 0 1 black"
+            },
+            "stylusBetween": " \\\r\n  "
+          },
+          "type": "decl",
+          "source": {
+            "start": {
+              "offset": 265,
+              "line": 20,
+              "column": 3
+            },
+            "input": {
+              "file": "input.styl"
+            },
+            "end": {
+              "offset": 325,
+              "line": 23,
+              "column": 13
+            }
+          },
+          "prop": "box-shadow",
+          "value": "0 0 0 black \r\n  1 0 0 black \r\n  0 0 1 black"
+        }
+      ],
+      "source": {
+        "start": {
+          "offset": 258,
+          "line": 19,
+          "column": 1
+        },
+        "startChildren": {
+          "offset": 261,
+          "line": 19,
+          "column": 4
+        },
+        "input": {
+          "file": "input.styl"
+        },
+        "end": {
+          "offset": 325,
+          "line": 23,
+          "column": 13
+        }
+      },
+      "selector": "div",
+      "pythonic": true
     }
   ],
   "source": {

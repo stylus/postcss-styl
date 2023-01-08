@@ -17,13 +17,13 @@
         {
           "raws": {
             "before": "\n    ",
-            "between": ": \n        ",
+            "between": ": ",
             "value": {
               "value": "0 0 0 black \n        1 0 0 black \n        0 0 1 black",
               "raw": "0 0 0 black \n        1 0 0 black \n        0 0 1 black",
               "stylus": "0 0 0 black \\\n        1 0 0 black \\\n        0 0 1 black"
             },
-            "stylusBetween": " \\\n        "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
@@ -36,8 +36,8 @@
               "file": "input.styl"
             },
             "end": {
-              "offset": 83,
-              "line": 5,
+              "offset": 73,
+              "line": 4,
               "column": 19
             }
           },
@@ -60,8 +60,8 @@
           "file": "input.styl"
         },
         "end": {
-          "offset": 83,
-          "line": 5,
+          "offset": 73,
+          "line": 4,
           "column": 19
         }
       },
@@ -80,27 +80,27 @@
         {
           "raws": {
             "before": "\n    ",
-            "between": ": \n      ",
+            "between": ": ",
             "value": {
               "value": "0 0 0 black \n      1 0 0 black \n      0 0 1 black",
               "raw": "0 0 0 black \n      1 0 0 black \n      0 0 1 black",
               "stylus": "0 0 0 black \\\n      1 0 0 black \\\n      0 0 1 black"
             },
-            "stylusBetween": " \\\n      "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
             "start": {
-              "offset": 94,
-              "line": 8,
+              "offset": 84,
+              "line": 7,
               "column": 5
             },
             "input": {
               "file": "input.styl"
             },
             "end": {
-              "offset": 163,
-              "line": 11,
+              "offset": 145,
+              "line": 9,
               "column": 17
             }
           },
@@ -110,21 +110,21 @@
       ],
       "source": {
         "start": {
-          "offset": 86,
-          "line": 7,
+          "offset": 76,
+          "line": 6,
           "column": 1
         },
         "startChildren": {
-          "offset": 89,
-          "line": 7,
+          "offset": 79,
+          "line": 6,
           "column": 4
         },
         "input": {
           "file": "input.styl"
         },
         "end": {
-          "offset": 163,
-          "line": 11,
+          "offset": 145,
+          "line": 9,
           "column": 17
         }
       },
@@ -143,27 +143,27 @@
         {
           "raws": {
             "before": "\n    ",
-            "between": ": \n    ",
+            "between": ": ",
             "value": {
               "value": "0 0 0 black \n    1 0 0 black \n    0 0 1 black",
               "raw": "0 0 0 black \n    1 0 0 black \n    0 0 1 black",
               "stylus": "0 0 0 black \\\n    1 0 0 black \\\n    0 0 1 black"
             },
-            "stylusBetween": " \\\n    "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
             "start": {
-              "offset": 174,
-              "line": 14,
+              "offset": 156,
+              "line": 12,
               "column": 5
             },
             "input": {
               "file": "input.styl"
             },
             "end": {
-              "offset": 237,
-              "line": 17,
+              "offset": 213,
+              "line": 14,
               "column": 15
             }
           },
@@ -173,21 +173,21 @@
       ],
       "source": {
         "start": {
-          "offset": 166,
-          "line": 13,
+          "offset": 148,
+          "line": 11,
           "column": 1
         },
         "startChildren": {
-          "offset": 169,
-          "line": 13,
+          "offset": 151,
+          "line": 11,
           "column": 4
         },
         "input": {
           "file": "input.styl"
         },
         "end": {
-          "offset": 237,
-          "line": 17,
+          "offset": 213,
+          "line": 14,
           "column": 15
         }
       },
@@ -206,27 +206,27 @@
         {
           "raws": {
             "before": "\n  ",
-            "between": ": \n  ",
+            "between": ": ",
             "value": {
               "value": "0 0 0 black \n  1 0 0 black \n  0 0 1 black",
               "raw": "0 0 0 black \n  1 0 0 black \n  0 0 1 black",
               "stylus": "0 0 0 black \\\n  1 0 0 black \\\n  0 0 1 black"
             },
-            "stylusBetween": " \\\n  "
+            "stylusBetween": " "
           },
           "type": "decl",
           "source": {
             "start": {
-              "offset": 246,
-              "line": 20,
+              "offset": 222,
+              "line": 17,
               "column": 3
             },
             "input": {
               "file": "input.styl"
             },
             "end": {
-              "offset": 303,
-              "line": 23,
+              "offset": 275,
+              "line": 19,
               "column": 13
             }
           },
@@ -236,21 +236,21 @@
       ],
       "source": {
         "start": {
-          "offset": 240,
-          "line": 19,
+          "offset": 216,
+          "line": 16,
           "column": 1
         },
         "startChildren": {
-          "offset": 243,
-          "line": 19,
+          "offset": 219,
+          "line": 16,
           "column": 4
         },
         "input": {
           "file": "input.styl"
         },
         "end": {
-          "offset": 303,
-          "line": 23,
+          "offset": 275,
+          "line": 19,
           "column": 13
         }
       },
