@@ -73,12 +73,12 @@
               },
               "type": "decl",
               "source": {
+                "input": {
+                  "file": "input.styl"
+                },
                 "start": {
                   "line": 5,
                   "column": 9
-                },
-                "input": {
-                  "file": "input.styl"
                 },
                 "end": {
                   "line": 5,
@@ -95,12 +95,12 @@
               },
               "type": "decl",
               "source": {
+                "input": {
+                  "file": "input.styl"
+                },
                 "start": {
                   "line": 6,
                   "column": 9
-                },
-                "input": {
-                  "file": "input.styl"
                 },
                 "end": {
                   "line": 6,
@@ -112,12 +112,12 @@
             }
           ],
           "source": {
+            "input": {
+              "file": "input.styl"
+            },
             "start": {
               "line": 4,
               "column": 5
-            },
-            "input": {
-              "file": "input.styl"
             },
             "end": {
               "line": 7,

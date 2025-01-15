@@ -49,12 +49,12 @@
               },
               "type": "decl",
               "source": {
+                "input": {
+                  "file": "input.styl"
+                },
                 "start": {
                   "line": 3,
                   "column": 9
-                },
-                "input": {
-                  "file": "input.styl"
                 },
                 "end": {
                   "line": 3,
@@ -66,12 +66,12 @@
             }
           ],
           "source": {
+            "input": {
+              "file": "input.styl"
+            },
             "start": {
               "line": 2,
               "column": 5
-            },
-            "input": {
-              "file": "input.styl"
             },
             "end": {
               "line": 4,

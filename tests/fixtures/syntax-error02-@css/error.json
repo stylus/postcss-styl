@@ -5,8 +5,8 @@
   "line": 3,
   "column": 5,
   "input": {
-    "line": 3,
     "column": 5,
+    "line": 3,
     "source": "\n@css {\n    css error\n}"
   }
 }

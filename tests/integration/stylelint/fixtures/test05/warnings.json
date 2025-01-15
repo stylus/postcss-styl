@@ -9,10 +9,10 @@
     "text": "Expected empty line before at-rule (at-rule-empty-line-before)"
   },
   {
-    "line": 2,
-    "column": 11,
-    "endLine": 2,
-    "endColumn": 12,
+    "line": 3,
+    "column": 1,
+    "endLine": 3,
+    "endColumn": 2,
     "rule": "declaration-block-semicolon-newline-after",
     "severity": "error",
     "text": "Expected newline after \";\" in a multi-line declaration block (declaration-block-semicolon-newline-after)"

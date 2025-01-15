@@ -1,6 +1,5 @@
 .a {
   -webkit-transition: 1s;
-  -o-transition: 1s;
   transition: 1s; /* will be prefixed */
 }
 
